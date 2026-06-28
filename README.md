@@ -90,10 +90,10 @@ Electronics and Communication Engineering Student
 Interested in VLSI • Embedded Systems • AI • Web Development
 
 LinkedIn:
-https://www.linkedin.com/in/your-linkedin
+https://www.linkedin.com/in/sangamithran-s-534518388?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 GitHub:
-https://github.com/your-github
+https://github.com/mithran1803
 
 ---
 
