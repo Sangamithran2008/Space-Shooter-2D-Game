@@ -95,8 +95,7 @@ B.E. Electronics and Communication Engineering Student
 Interested in VLSI • Embedded Systems • AI • Web Development
 
 - GitHub: https://github.com/Sangamithran2008
-- LinkedIn: *(Add your LinkedIn profile URL here)*
-
+- LinkedIn: https://github.com/mithran1803
 ---
 
 ## 🙌 Credits
