@@ -1,31 +1,40 @@
 # 🚀 Space Shooter 2D Game
 
-A browser-based 2D Space Shooter game built using HTML5, CSS3, and JavaScript. Fight enemy spaceships, survive increasingly difficult levels, and complete all 50 stages.
+A browser-based **2D Space Shooter** game built using **HTML5, CSS3, and JavaScript**. Control your spaceship, destroy enemy ships, survive increasingly challenging levels, and complete all 50 stages.
+
+## 🎮 Live Demo
+
+🔗 **Play the Game:**  
+https://sangamithran2008.github.io/Space-Shooter-2D-Game/
+
+## 💻 Source Code
+
+🔗 **GitHub Repository:**  
+https://github.com/Sangamithran2008/Space-Shooter-2D-Game
 
 ---
 
-## 🎮 Features
+## 🎯 Features
 
-- 🚀 50 challenging levels
+- 🚀 50 progressively challenging levels
 - ❤️ 3 lives per level
-- 🔥 Lives decrease when an enemy escapes
-- 💥 Game Over after missing 3 enemies
+- 🎯 Shoot enemy spaceships before they escape
+- 🔥 Lose one life for each missed enemy
+- ❌ Game Over after missing 3 enemies in a level
 - 🛸 Progressive spaceship upgrades
-- 🎯 Smooth shooting mechanics
-- 📈 Increasing difficulty
-- 🎨 Responsive UI and animations
+- 📈 Increasing game difficulty
+- 🎨 Smooth 2D gameplay using the HTML5 Canvas API
 
 ---
 
 ## 🕹️ Gameplay
 
-- Move the spaceship to avoid danger.
-- Shoot enemy spaceships.
-- Destroy enemies before they escape.
-- Every escaped enemy costs one life.
-- You have only 3 lives in each level.
-- Missing 3 enemies results in Game Over.
-- Complete all 50 levels to win.
+- Control the spaceship and eliminate incoming enemies.
+- Destroy enemies before they leave the screen.
+- Each level starts with **3 lives**.
+- Missing an enemy costs one life.
+- If all **3 lives** are lost, the game ends.
+- Complete all **50 levels** to finish the game.
 
 ---
 
@@ -39,45 +48,41 @@ A browser-based 2D Space Shooter game built using HTML5, CSS3, and JavaScript. F
 
 ---
 
+## 🚀 How to Run Locally
 
-
-
-
-## 🚀 How to Run
-
-1. Clone this repository
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Space-Shooter-2D.git
+git clone https://github.com/Sangamithran2008/Space-Shooter-2D-Game.git
 ```
 
 2. Open the project folder.
 
-3. Run **index.html** in your browser.
+3. Launch `index.html` in your preferred web browser.
 
 ---
 
 ## 📁 Project Structure
 
-```text
-index.html
-style.css
-script.js
-assets/
-README.md
+```
+Space-Shooter-2D-Game/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── README.md
 ```
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Enhancements
 
-- Boss battles
-- Power-ups
-- Sound effects
-- Background music
-- Mobile controls
-- Online leaderboard
-- Save game progress
+- 👾 Boss battles
+- ⚡ Power-ups and weapon upgrades
+- 🔊 Background music and sound effects
+- 🏆 High-score leaderboard
+- 📱 Mobile device support
+- 💾 Save game progress
 
 ---
 
@@ -85,15 +90,12 @@ README.md
 
 **Sangamithran S**
 
-Electronics and Communication Engineering Student
+B.E. Electronics and Communication Engineering Student
 
 Interested in VLSI • Embedded Systems • AI • Web Development
 
-LinkedIn:
-https://www.linkedin.com/in/sangamithran-s-534518388?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-GitHub:
-https://github.com/mithran1803
+- GitHub: https://github.com/Sangamithran2008
+- LinkedIn: *(Add your LinkedIn profile URL here)*
 
 ---
 
@@ -101,11 +103,8 @@ https://github.com/mithran1803
 
 Developed by **Sangamithran S**
 
-AI Development Assistance:
-- Kiro AI
+AI-assisted development with **Kiro AI**.
 
 ---
 
-## ⭐ Support
-
-If you like this project, please ⭐ Star this repository.
+⭐ If you enjoyed this project, consider giving this repository a **Star**!
